@@ -1,0 +1,14 @@
+{
+  "short_name": "Javascript Calculator",
+  "name": "Javascript Calculator React",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
